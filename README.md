@@ -1,1 +1,1 @@
-# clinoc.com
+# clinic.com
